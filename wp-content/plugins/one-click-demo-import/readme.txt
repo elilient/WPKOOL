@@ -3,7 +3,7 @@ Contributors: capuderg, cyman, Prelc, proteusthemes
 Tags: import, content, demo, data, widgets, settings, redux, theme options
 Requires at least: 4.0.0
 Tested up to: 4.9
-Stable tag: 2.5.0
+Stable tag: 2.5.1
 License: GPLv3 or later
 
 Import your demo content, widgets and theme settings with one click. Theme authors! Enable simple demo import for your theme demo data.
@@ -361,6 +361,12 @@ Please visit this [docs page](https://github.com/proteusthemes/one-click-demo-im
 3. Example of how the import page looks like, when no demo imports are predefined a.k.a manual import.
 
 == Changelog ==
+
+= 2.5.1 =
+
+*Release Date - 25 October 2018*
+
+* Fix missing translation strings
 
 = 2.5.0 =
 
