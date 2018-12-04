@@ -1,0 +1,904 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oneda\n"
+"POT-Creation-Date: 2018-05-16 10:08+0800\n"
+"PO-Revision-Date: 2018-05-16 10:08+0800\n"
+"Last-Translator: \n"
+"Language-Team: Coothemes.com <support@Coothemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: custom/ct-about-page/about-page.php:20
+#: custom/ct-about-page/about-page.php:22
+msgid "About Theta All (Oneda PRO)"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:25
+#, php-format
+msgid "Welcome to %s! - Version "
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:27
+msgid ""
+"Theta All (Oneda Pro) is a clean and beautiful, polished and feature-rich, "
+"robust and easy to use, fully responsive premium WordPress theme that is "
+"ideal for restaurant, cafe, bakery, cuisine, fast food, pizzerias, drinks "
+"and food related business. The theme is loaded with many pre-built home page "
+"sections to help you create an amazing modern one-page website without "
+"having to write a single line of code. The Theta All theme displays full "
+"screen image banner, About Us section, Service Section, Recent Posts Section "
+"and Contact Us form as well as Footer widgets. You have full control "
+"including home page section order, font, font size, color, button, opacity "
+"of every open section. The theme is optimized for fast loading and extremely "
+"responsive with various devices. You can see the demo at https://www."
+"coothemes.com/demos/theta-all/"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:35
+msgid "Getting Started"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:37
+msgid "Recommended Plugins"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:40
+msgid "Free vs PRO"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:49
+#: custom/ct-about-page/about-page.php:51
+msgid "Recommended actions"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:50
+msgid ""
+"We have compiled a list of steps for you to take so we can ensure that the "
+"experience you have using one of our products is very easy to follow."
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:58
+msgid "Read full documentation"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:59
+msgid ""
+"Need more details? Please check our full documentation for detailed "
+"information on how to use oneda."
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:60
+msgid "Documentation"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:67
+#: custom/ct-about-page/about-page.php:69
+msgid "Go to the Customizer"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:68
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:77
+#: custom/ct-about-page/about-page.php:79
+msgid "Contact Support"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:78
+msgid ""
+"We want to make sure you have the best experience using  Theta All, and that "
+"is why we have gathered all the necessary information here for you. We hope "
+"you will enjoy using  Theta All as much as we enjoy creating great products."
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:94
+msgid "Go Member Area!"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:97
+msgid "One-page Theme"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:102
+msgid "Text and Image Logos"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:109
+msgid "Parallax Backgrounds"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:115
+msgid "Front Page Section Reordering"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:121
+msgid "Unlimited Front Page Banner"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:127
+msgid "Front page Events Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:134
+msgid "Multiple Blog Layouts"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:140
+msgid "Footer Widgets"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:147
+msgid "Footer Copyright Editor"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:154
+msgid "Full Screen Front Page Banner"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:160
+msgid "Front Page Image and Video Slider"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:167
+msgid "Front page Service Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:174
+msgid "Front page About Us Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:181
+msgid "Front Page Portfolio Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:187
+msgid "Front Page HTML5 Video Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:195
+msgid "Front Page Pricing Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:201
+msgid "Front Page Team Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:207
+msgid "Front Page Facts Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:213
+msgid "Front Page Gallery Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:219
+msgid "Front Page Testimonial Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:225
+msgid "Front Page Clients Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:231
+msgid "Front Page WooCommerce Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:237
+msgid "Front Page Blog Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:243
+msgid "Front Page CTA Section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:249
+msgid "Google Maps"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:255
+msgid "Google fonts"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:261
+msgid "Shortcode"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:267
+msgid "Multiple Page Template"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:273
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:279
+msgid "Unlimited Color Choices"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:284
+msgid "Automatic Updates"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:295
+msgid "Already activated"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:296
+msgid "Version: "
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:297
+msgid "Install and Activate"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:298
+msgid "Activate"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:299
+msgid "Deactivate"
+msgstr ""
+
+#: custom/ct-about-page/class-ct-about-page.php:920
+msgid "Activating"
+msgstr ""
+
+#: custom/cts-config.php:21
+msgid "Feature Homepage Settings"
+msgstr ""
+
+#: custom/cts-config.php:22
+msgid "Homepage options for Oneda theme"
+msgstr ""
+
+#: custom/cts-config.php:26
+msgid "Homepage Layout"
+msgstr ""
+
+#: custom/cts-config.php:32
+msgid "Slider Section"
+msgstr ""
+
+#: custom/cts-config.php:33
+msgid "Video Background Options"
+msgstr ""
+
+#: custom/cts-config.php:34
+msgid "Service Section"
+msgstr ""
+
+#: custom/cts-config.php:35
+msgid "Gallery Section"
+msgstr ""
+
+#: custom/cts-config.php:37
+msgid "Fact Section"
+msgstr ""
+
+#: custom/cts-config.php:38
+msgid "Team Section"
+msgstr ""
+
+#: custom/cts-config.php:39
+msgid "Feature Section"
+msgstr ""
+
+#: custom/cts-config.php:42
+msgid "Portfolio Section"
+msgstr ""
+
+#: custom/cts-config.php:44
+msgid "About Section"
+msgstr ""
+
+#: custom/cts-config.php:46
+msgid "Buy Section"
+msgstr ""
+
+#: custom/cts-config.php:47
+msgid "Price Section"
+msgstr ""
+
+#: custom/cts-config.php:49
+msgid "Woocommerce Section"
+msgstr ""
+
+#: custom/cts-config.php:50
+msgid "Product Section"
+msgstr ""
+
+#: custom/cts-config.php:52
+msgid "Advantage Section"
+msgstr ""
+
+#: custom/cts-config.php:55
+msgid "Testimonial Section"
+msgstr ""
+
+#: custom/cts-config.php:58
+msgid "Client Section"
+msgstr ""
+
+#: custom/cts-config.php:59
+msgid "News Section"
+msgstr ""
+
+#: custom/cts-config.php:60
+msgid "Contact Section"
+msgstr ""
+
+#: custom/cts-config.php:62
+msgid "Blog Section"
+msgstr ""
+
+#: custom/cts-config.php:63
+msgid "Map Section"
+msgstr ""
+
+#: custom/cts-config.php:64
+msgid "Footer Tool Section"
+msgstr ""
+
+#: custom/cts-config.php:78
+msgid "video Background Options"
+msgstr ""
+
+#: custom/cts-config.php:93
+msgid "Enable section header menu in the feature homepage"
+msgstr ""
+
+#: custom/cts-config.php:105
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr ""
+
+#: custom/cts-config.php:107
+#, php-format
+msgid ""
+"Your homepage is not static page. In order to set up the home page as shown "
+"in the official demo on our website (one page front page with sections), you "
+"will need to set up your front page to use a static page instead of showing "
+"your latest blog posts. Check the %s page for more informations."
+msgstr ""
+
+#: custom/cts-config.php:107
+msgid "Theme info"
+msgstr ""
+
+#: custom/cts-config.php:121
+msgid "Homepage Blocks"
+msgstr ""
+
+#: custom/cts-config.php:123
+msgid "Drag and Drop and enable the homepage blocks."
+msgstr ""
+
+#: custom/cts-config.php:134
+msgid "Theta All (Oneda PRO)"
+msgstr ""
+
+#: custom/cts-config.php:135
+msgid ""
+"Available in Theta All (Oneda PRO): Feature Section, Gallery Section, "
+"Service Section, Facts / Number Section, Our Team Section, Pricing Section, "
+"Testimonials Section, Clients Section,Contact Us Section,Download Section, "
+"Google Map, Custom Colors, Google Fonts, video(include Youtube) Backgrounds, "
+"Animations, Custom Footer Link and much more..."
+msgstr ""
+
+#: custom/cts-config.php:137
+msgid "Discover Theta All (Oneda PRO)"
+msgstr ""
+
+#: custom/cts-config.php:146 custom/cts-config.php:332
+msgid "Main Menu Title"
+msgstr ""
+
+#: custom/cts-config.php:156
+msgid "Apply background video to this slider"
+msgstr ""
+
+#: custom/cts-config.php:157
+msgid ""
+"If you enable video background, you need to set the setting \"video "
+"background option\" in the homepage settings"
+msgstr ""
+
+#: custom/cts-config.php:171
+msgid "Select page"
+msgstr ""
+
+#: custom/cts-config.php:180
+msgid "Button One Text"
+msgstr ""
+
+#: custom/cts-config.php:181 custom/cts-config.php:199
+#: custom/section/homepage-slider.php:33
+msgid "View More"
+msgstr ""
+
+#: custom/cts-config.php:189
+msgid "Button One URL"
+msgstr ""
+
+#: custom/cts-config.php:198
+msgid "Button Two Text"
+msgstr ""
+
+#: custom/cts-config.php:207
+msgid "Button Two URL"
+msgstr ""
+
+#: custom/cts-config.php:219
+msgid "Slide Time"
+msgstr ""
+
+#: custom/cts-config.php:232
+msgid "Title Typography"
+msgstr ""
+
+#: custom/cts-config.php:251
+msgid "Description Typography"
+msgstr ""
+
+#: custom/cts-config.php:270
+msgid "Slider Button Background Color"
+msgstr ""
+
+#: custom/cts-config.php:283 custom/cts-config.php:835
+msgid "Button Text Typography"
+msgstr ""
+
+#: custom/cts-config.php:303
+msgid "Section Title"
+msgstr ""
+
+#: custom/cts-config.php:313
+msgid "Title Iocn"
+msgstr ""
+
+#: custom/cts-config.php:323
+msgid "Section Description"
+msgstr ""
+
+#: custom/cts-config.php:341
+msgid "Section Background Image"
+msgstr ""
+
+#: custom/cts-config.php:351
+msgid "Section Background Color"
+msgstr ""
+
+#: custom/cts-config.php:360
+msgid "Section Background Opacity"
+msgstr ""
+
+#: custom/cts-config.php:373
+msgid "Section Padding Control"
+msgstr ""
+
+#: custom/cts-config.php:387
+msgid "Section Mobile Padding Control"
+msgstr ""
+
+#: custom/cts-config.php:402
+msgid "Enable Animate"
+msgstr ""
+
+#: custom/cts-config.php:413
+msgid "Enable Parallax Background"
+msgstr ""
+
+#: custom/cts-config.php:426
+msgid "Title / Description Typography Setting"
+msgstr ""
+
+#: custom/cts-config.php:427
+msgid "Enable or disable Title / Description Typography"
+msgstr ""
+
+#: custom/cts-config.php:436
+msgid " Title Typography"
+msgstr ""
+
+#: custom/cts-config.php:458
+msgid " Description Typography"
+msgstr ""
+
+#: custom/cts-config.php:487
+msgid "Fact Layout"
+msgstr ""
+
+#: custom/cts-config.php:502
+msgid "Facts / Number"
+msgstr ""
+
+#: custom/cts-config.php:512
+msgid "Facts Icon"
+msgstr ""
+
+#: custom/cts-config.php:519
+msgid "Facts Item"
+msgstr ""
+
+#: custom/cts-config.php:525
+msgid "Facts Number"
+msgstr ""
+
+#: custom/cts-config.php:534
+msgid "Fact Item"
+msgstr ""
+
+#: custom/cts-config.php:542
+msgid "Fact Circle Color"
+msgstr ""
+
+#: custom/cts-config.php:543
+msgid "Only apply to \"Fact Layout\"-> \"Circle\""
+msgstr ""
+
+#: custom/cts-config.php:557
+msgid "Number of rotation articles"
+msgstr ""
+
+#: custom/cts-config.php:582
+msgid "The following catagories will display on news section in the Homepage."
+msgstr ""
+
+#: custom/cts-config.php:594
+msgid "Homepage Article Default Feature image"
+msgstr ""
+
+#: custom/cts-config.php:605 custom/cts-config.php:606
+#: custom/section/homepage-news.php:110
+msgid "Read More"
+msgstr ""
+
+#: custom/cts-config.php:614
+msgid "Footer Logo"
+msgstr ""
+
+#: custom/cts-config.php:624
+msgid "Tool 1 Description"
+msgstr ""
+
+#: custom/cts-config.php:625 custom/section/homepage-tool.php:11
+msgid ""
+"Donec at eui smod nibh, eu bibendum quam. Nullam  non gravida pDonec at eui "
+"smod nibh, eu bibendum quam. Nullam  non gravida peu bibendum quam. Nullam  "
+"non gravida peu bibendum quam. Nullam  non gravida p"
+msgstr ""
+
+#: custom/cts-config.php:634
+msgid "Tool 2 Title"
+msgstr ""
+
+#: custom/cts-config.php:635 custom/section/homepage-tool.php:13
+msgid "Contact Us"
+msgstr ""
+
+#: custom/cts-config.php:643
+msgid "Tool 2 Information"
+msgstr ""
+
+#: custom/cts-config.php:648
+#, php-format
+msgid ""
+"Note: <br>Find Coothemes.com icon: <a href=\"%s\" target=\"_blank\">https://"
+"www.coothemes.com/icons/</a>, Example: \"ct-address\" "
+msgstr ""
+
+#: custom/cts-config.php:654
+msgid "tool 2 Coothmems.com Icon"
+msgstr ""
+
+#: custom/cts-config.php:659
+msgid "Tool 2 Text"
+msgstr ""
+
+#: custom/cts-config.php:666
+msgid "Tool 2 Contact Item"
+msgstr ""
+
+#: custom/cts-config.php:673
+msgid "Tool 3 Title"
+msgstr ""
+
+#: custom/cts-config.php:674 custom/section/homepage-tool.php:15
+msgid "Opening Hours"
+msgstr ""
+
+#: custom/cts-config.php:682
+msgid "Tool 3 Information"
+msgstr ""
+
+#: custom/cts-config.php:690 custom/section/homepage-tool.php:59
+msgid "Monday-Friday: 08:00AM - 10:00PM"
+msgstr ""
+
+#: custom/cts-config.php:694 custom/section/homepage-tool.php:63
+msgid "Saturday-Sunday: 10:00AM - 11:00PM"
+msgstr ""
+
+#: custom/cts-config.php:701
+msgid "Tool 3 Text"
+msgstr ""
+
+#: custom/cts-config.php:708
+msgid "Tool 3 Contact Item"
+msgstr ""
+
+#: custom/cts-config.php:716
+msgid "Footer Copyriht 2"
+msgstr ""
+
+#: custom/cts-config.php:718
+msgid ""
+"Powered by <a href=\"http://wordpress.org/\">WordPress</a>. Theta All theme "
+"by <a href=\"https://www.coothemes.com/\">CooThemes.com</a>."
+msgstr ""
+
+#: custom/cts-config.php:727
+msgid "Facebook Link"
+msgstr ""
+
+#: custom/cts-config.php:736
+msgid "Twitter Link"
+msgstr ""
+
+#: custom/cts-config.php:745
+msgid "Youtube Link"
+msgstr ""
+
+#: custom/cts-config.php:754
+msgid "Pinterest Link"
+msgstr ""
+
+#: custom/cts-config.php:763
+msgid "Google Plus Link"
+msgstr ""
+
+#: custom/cts-config.php:772
+msgid "Instagram Link"
+msgstr ""
+
+#: custom/cts-config.php:786
+msgid "Button Text"
+msgstr ""
+
+#: custom/cts-config.php:796
+msgid "Button URL"
+msgstr ""
+
+#: custom/cts-config.php:806
+msgid "Button Background Color"
+msgstr ""
+
+#: custom/cts-config.php:819
+msgid "Button Background Opacity"
+msgstr ""
+
+#: custom/cts-config.php:852
+msgid "Button Border Radius"
+msgstr ""
+
+#: custom/cts-config.php:865
+msgid "Section Button Padding Control"
+msgstr ""
+
+#: custom/customizer-pro/class-customize.php:75
+msgid "Theta All (Oneda Pro)"
+msgstr ""
+
+#: custom/customizer-pro/class-customize.php:77
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: custom/inc.php:112
+msgid "Our Skills"
+msgstr ""
+
+#: custom/inc.php:113 custom/inc.php:128
+msgid ""
+"You can write a description of the section here! You can write a description "
+"of the section here!"
+msgstr ""
+
+#: custom/inc.php:127
+msgid "Events of The Month"
+msgstr ""
+
+#: custom/inc.php:153
+msgid "here is your location"
+msgstr ""
+
+#: custom/inc.php:158
+msgid "here is your phone number"
+msgstr ""
+
+#: custom/inc.php:163
+msgid "here is your email address"
+msgstr ""
+
+#: custom/inc.php:169
+msgid "here is your website URL"
+msgstr ""
+
+#: custom/inc.php:181
+msgid "Years of Experience"
+msgstr ""
+
+#: custom/inc.php:187
+msgid "Special Dishes"
+msgstr ""
+
+#: custom/inc.php:193
+msgid "Cups of coffee"
+msgstr ""
+
+#: custom/inc.php:199
+msgid "happy customers"
+msgstr ""
+
+#: custom/inc.php:223
+msgid "View All Events"
+msgstr ""
+
+#: custom/section/homepage-news.php:130 custom/section/homepage-slider.php:60
+msgid "Previous"
+msgstr ""
+
+#: custom/section/homepage-news.php:134 custom/section/homepage-slider.php:64
+msgid "Next"
+msgstr ""
+
+#: custom/section/homepage-slider.php:38
+msgid "Try It Now"
+msgstr ""
+
+#: custom/tgm-plugin.php:64
+msgid "One Click Demo Import"
+msgstr ""
+
+#: custom/tgm-plugin.php:99
+msgid "Install Required Plugins"
+msgstr ""
+
+#: custom/tgm-plugin.php:100
+msgid "Install Plugins"
+msgstr ""
+
+#: custom/tgm-plugin.php:101
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: custom/tgm-plugin.php:102
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: custom/tgm-plugin.php:103
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: custom/tgm-plugin.php:104
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: custom/tgm-plugin.php:105
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: custom/tgm-plugin.php:106
+#, php-format
+msgid ""
+"The following required plugin is currently inactive: %1$s.<br/><span style="
+"\"color:red;\">NOTICE:</span> Oneda includes all shortcodes inside the "
+"Coothemes Shortcode plugin. As to best user experience, please activate it "
+"now."
+msgid_plural ""
+"The following required plugins are currently inactive: %1$s.<br/><span style="
+"\"color:red;\">NOTICE:</span> Oneda includes all shortcodes inside the "
+"Coothemes Shortcode plugin. As to best user experience, please activate it "
+"now."
+msgstr[0] ""
+msgstr[1] ""
+
+#: custom/tgm-plugin.php:107
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: custom/tgm-plugin.php:108
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: custom/tgm-plugin.php:109
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: custom/tgm-plugin.php:110
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: custom/tgm-plugin.php:111
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: custom/tgm-plugin.php:112
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: custom/tgm-plugin.php:113
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: custom/tgm-plugin.php:114
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: custom/tgm-plugin.php:115
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
