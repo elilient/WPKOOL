@@ -1,0 +1,4 @@
+[07-Dec-2018 06:26:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/edgarlielienthal/public_html/wordpress/wp-content/themes/blogrid/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edgarlielienthal/public_html/wordpress/wp-content/themes/blogrid/index.php on line 15
