@@ -18,7 +18,11 @@
 .blogrid-add-css h3 {
 	margin-top:0;
 }
-
+span.checkmark img,
+span.cross img {
+	width:auto;
+	max-width:100%;
+}
 .blogrid-button-container {
 	text-align: center;
 	margin-bottom: 30px;
