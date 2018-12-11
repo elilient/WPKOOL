@@ -20,7 +20,8 @@ html,
 kbd,
 pre,
 samp {
-	font-family: 'Lato', 'helvetica neue', helvetica, arial
+	font-family: 'Lato', 'helvetica neue', helvetica, arial;
+	height:100%;
 }
 
 hr,
