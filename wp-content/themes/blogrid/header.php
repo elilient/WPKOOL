@@ -24,9 +24,9 @@
 		
 
 		<header id="masthead" class="sheader site-header clearfix">
-			<div id="weglot_here"></div>
+			
 			<nav id="primary-site-navigation" class="primary-menu main-navigation clearfix">
-
+<div id="weglot_here"></div>
 				<a href="#" id="pull" class="smenu-hide toggle-mobile-menu menu-toggle" aria-controls="secondary-menu" aria-expanded="false"><?php esc_html_e( 'Menu', 'blogrid' ); ?></a>
 				<div class="top-nav-wrapper">
 					<div class="content-wrap">
