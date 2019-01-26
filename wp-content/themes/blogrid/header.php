@@ -21,6 +21,7 @@
 
 <body <?php body_class(); ?>>
 	<div id="page" class="site">
+		<div id="weglot_here"></div>
 
 		<header id="masthead" class="sheader site-header clearfix">
 			<nav id="primary-site-navigation" class="primary-menu main-navigation clearfix">
