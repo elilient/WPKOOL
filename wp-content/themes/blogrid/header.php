@@ -21,15 +21,13 @@
 
 <body <?php body_class(); ?>>
 	<div id="page" class="site">
-		
+		<div id="weglot_here"></div>
 
 		<header id="masthead" class="sheader site-header clearfix">
-			
 			<nav id="primary-site-navigation" class="primary-menu main-navigation clearfix">
 
 				<a href="#" id="pull" class="smenu-hide toggle-mobile-menu menu-toggle" aria-controls="secondary-menu" aria-expanded="false"><?php esc_html_e( 'Menu', 'blogrid' ); ?></a>
 				<div class="top-nav-wrapper">
-					<div id="weglot_here"></div>
 					<div class="content-wrap">
 						<div class="logo-container"> 
 
